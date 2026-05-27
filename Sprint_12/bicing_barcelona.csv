@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+"<html lang=""ca"" dir=""ltr"" prefix=""content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"">"
+<head>
+"  <link rel=""profile"" href=""http://www.w3.org/1999/xhtml/vocab"" />"
+"  <meta charset=""utf-8"">"
+"  <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">"
+"<link rel=""shortlink"" href=""/ca/node/2408"" />"
+"<link rel=""canonical"" href=""/ca/tokens"" />"
+"<meta name=""Generator"" content=""Drupal 7 (http://drupal.org)"" />"
+"<meta name=""theme-color"" content=""#1e529e"">"
+"<link rel=""shortcut icon"" href=""https://www.barcelona.cat/favicon.ico"">"
+"  <link type=""text/css"" rel=""stylesheet"" href=""https://opendata-ajuntament.barcelona.cat/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css"" media=""all"" />"
+"<link type=""text/css"" rel=""stylesheet"" href=""https://opendata-ajuntament.barcelona.cat/sites/default/files/css/css_rKIKr7DSobmErUqWcdtvAV1fxvb8AzeHqvjQt4yJu-o.css"" media=""all"" />"
+"<link type=""text/css"" rel=""stylesheet"" href=""https://opendata-ajuntament.barcelona.cat/sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css"" media=""all"" />"
+"<link type=""text/css"" rel=""stylesheet"" href=""https://www.barcelona.cat/assets/core/stylesheets/core.css"" media=""all"" />"
+"<link type=""text/css"" rel=""stylesheet"" href=""https://opendata-ajuntament.barcelona.cat/sites/default/files/css/css_1Nru4F1X4oYAWmjRM1FGhNOsmMMeysj7nCwimwD0CFg.css"" media=""all"" />"
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+"    <script src=""https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js""></script>"
+  <![endif]-->
+"  <script src=""https://opendata-ajuntament.barcelona.cat/sites/default/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js""></script>"
+"<script src=""https://opendata-ajuntament.barcelona.cat/sites/default/files/js/js_kvyagmdCev_MtA4X6gzcZGXLh0oO7TEX9afpuo4JFPw.js""></script>"
+"<script src=""https://opendata-ajuntament.barcelona.cat/sites/default/files/js/js_JFPEpveOSlEOinstefSDglNJpRRmZak84qIc49CNm2c.js""></script>"
+"<script src=""https://www.barcelona.cat/assets/core/javascripts/core.js""></script>"
+"<script src=""https://opendata-ajuntament.barcelona.cat/sites/default/files/js/js_qKljz6TkonSHSDrS8hLO0sGmKDdCfs_h9YJgqMffoTA.js""></script>"
+"<script src=""https://opendata-ajuntament.barcelona.cat/sites/default/files/js/js_lz9tYBgWDiTv7cWlR-cl8pgzb_xIeFV-NQNFW_YjIRk.js""></script>"
+</head>
+"<body class=""html not-front not-logged-in no-sidebars page-node page-node- page-node-2408 node-type-page i18n-ca"">"
+<!-- NIRON_opendata_2026-03-12T13:14:36Z  -->
+"<header id=""brand"" alias=""opendata"" brand=""opendata_2026-03-12T13:14:36Z"" class=""v2025 bcnbrand-legacy lang-ca""  data-lwid=""5946bccf-fb42-4b09-93b4-4edcaf700cdc"" data-plausible=""bcn0257"" data-matomo=""LYVTvL8u"" data-avisos=""auto"" data-web-cerca=""https%3A%2F%2Fopendata-ajuntament.barcelona.cat%2F""  data-web-nom=""Open Data BCN"" data-cercador=""true"">"
+"  <div id=""ajuntament-avisos-header""></div>"
+"  <div class=""bcnbrand-navs-container container"">"
+    <!-- Logo -->
+"    <div class=""bcnbrand-logo-main"">"
+"       <a class=""plausible-event-name=barra-logo"" target=""_blank"" href=""https://www.barcelona.cat/ca/"" data-ga=""L'Ajuntament"">"
+"         <img src=""https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg"" alt=""Logo Ajuntament de Barcelona"">"
+      </a>
+    </div>
+"    <div class=""bcnbrand-navs-wrapper"">"
+      <!-- Idiomas -->
+"      <nav class=""bcnbrand-lang lang"" id=""bcnbrand-lang-nav"" aria-label=""Selecciona idioma"">"
+"        <div class=""bcnbrand-dropdown bcnbrand-lang-dropdown"" id=""bcnbrand-lang-dropdown"">"
+"          <button id=""bcnbrand-lang-toggle"" class=""bcnbrand-dropdown-toggle bcnbrand-nav-link plausible-event-name=barra-idioma-desplegar"""
+"                  aria-expanded=""false"" aria-controls=""bcnbrand-language-dropdown-list"" aria-label=""Català (Canviar idioma)"">"
+"            <span class=""bcnbrand-icon icobcn-mon2-l-light"" aria-hidden=""true""></span>"
+            Català
+"            <span class=""bcnbrand-icon icobcn-fletxa-baix3"" aria-hidden=""true""></span>"
+"            <span class=""custom-tooltip"">Selecciona un idioma</span>"
+          </button>
+"          <div class=""bcnbrand-dropdown-menu bcnbrand-list"" id=""bcnbrand-language-dropdown-list"" aria-label=""Selecciona idioma"">"
+"            <h2 class=""header-menu-bcnbrand-lang"" tabindex=""-1"">Selecciona idioma</h2>"
+            <ul>
+"              <li><a href=""/ca"" aria-current=""true"" class=""active"" lang=""ca"" data-ga=""CA"">Català</a></li>"
+"<li><a href=""/es"" lang=""es"" data-ga=""ES"">Castellano</a></li>"
+"<li><a href=""/en"" lang=""en"" data-ga=""EN"">English</a></li>"
+            </ul>
+"            <!--<h2 class=""header-menu-bcnbrand-lang-extended"" tabindex=""-1"">Contingut específic en altres idiomes:</h2>"
+"            <ul class=""bcnbrand-language-extended"">"
+              <li>
+"                <a href=""https://www.ciutatrefugi.barcelona/es/bienvenido-barcelona"" class=""plausible-event-name=barra-idioma-refugiat-ES"" title=""Si eres un refugiado"" lang=""es"">Si eres un refugiado</a>"
+              </li>
+              <li>
+"                <a href=""https://www.ciutatrefugi.barcelona/en/welcome-barcelona"" class=""plausible-event-name=barra-idioma-refugiat-EN"" title=""If you are a refugee"" lang=""en"">If you are a refugee</a>"
+              </li>
+              <li>
+"                <a href=""https://www.ciutatrefugi.barcelona/fr/bienvenue-barcelone"" class=""plausible-event-name=barra-idioma-refugiat-FR"" title=""Si vous êtes réfugié(e)"" lang=""fr"">Si vous êtes réfugié(e)</a>"
+              </li>
+              <li>
+"                <a href=""https://www.ciutatrefugi.barcelona/ar/hl-bk-fy-brshlwn"" class=""plausible-event-name=barra-idioma-refugiat-AR"" title=""إذا كنت لاجئا "" lang=""ar"">إذا كنت لاجئا </a>"
+              </li>
+              <li>
+"                <a href=""https://www.ciutatrefugi.barcelona/ru/dobro-pozhalovat-v-barselonu"" class=""plausible-event-name=barra-idioma-refugiat-RU"" title=""если вы являетесь беженцем"" lang=""ru"">если вы являетесь беженцем</a>"
+              </li>
+              <li>
+"                <a href=""https://www.ciutatrefugi.barcelona/ur/brslwn-myn-khwsh-amdyd"" class=""plausible-event-name=barra-idioma-refugiat-UR"" title=""اگر آپ مہاجر ہیں "" lang=""ur"">اگر آپ مہاجر ہیں </a>"
+              </li>
+              <li>
+"                <a href=""https://www.ciutatrefugi.barcelona/uk/vitayemo-v-barseloni"" class=""plausible-event-name=barra-idioma-refugiat-UK"" title=""Якщо ви біженець"" lang=""uk"">Якщо ви біженець</a>"
+              </li>
+            </ul>-->
+          </div>
+        </div>
+      </nav>
+      <!-- Buscador -->
+"      <nav class=""bcnbrand-navbar-search"" aria-label=""Cerca en el web"">"
+"        <div class=""bcnbrand-dropdown"" id=""bcnbrand-search-dropdown"">"
+"          <button id=""bcnbrand-search-toggle"" class=""bcnbrand-dropdown-toggle bcnbrand-nav-link plausible-event-name=barra-cerca-desplegar"""
+"                  aria-expanded=""false"" aria-controls=""bcnbrand-search-menu"" aria-describedby=""tooltip-search"">"
+"                  <span class=""bcnbrand-icon icobcn-lupa-l"" aria-hidden=""true""></span>"
+"                  <span id=""tooltip-search"" role=""tooltip"" class=""custom-tooltip"">Cerca en el web</span>"
+          </button>
+"          <div class=""bcnbrand-dropdown-menu"" id=""bcnbrand-search-menu"">"
+"            <form action=""https://cercador.barcelona.cat/ca"" method=""get"">"
+"              <div class=""bcnbrand-search-wrapper"">"
+"                <label for=""bcnbrand-search-input"" class=""bcnbrand-search-input-label"">Cerca en el web</label>"
+"                <input id=""bcnbrand-search-input"" type=""text"" name=""query""/>"
+"                <button type=""button"" id=""bcnbrand-search-clear"" hidden aria-label=""Esborra el text"">"
+"                  <span class=""bcnbrand-icon icobcn-creu-l"" aria-hidden=""true""></span>"
+                </button>
+"                <button type=""submit"" aria-label=""Cerca en el web"" data-ga=""Cerca en el web"" class=""plausible-event-name=barra-cerca"">"
+"                  <span class=""bcnbrand-icon icobcn-lupa-l"" aria-hidden=""true""></span>"
